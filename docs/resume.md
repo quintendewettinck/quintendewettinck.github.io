@@ -7,7 +7,7 @@
     <div class="timeline-header">
       <span class="timeline-org">PhD in Business Economics</span>
       <span class="timeline-role">KU Leuven</span>
-      <span class="timeline-dates">Oct 2023 - <strong class="text-accent">Present</strong></span>
+      <span class="timeline-dates">Oct 2023 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Brussels, Belgium</div>
     <div class="timeline-desc">Economic Complexity research supervised by Prof.
@@ -54,12 +54,12 @@
     <div class="timeline-header">
       <span class="timeline-org">MSc Business Administration</span>
       <span class="timeline-role">KU Leuven</span>
-      <span class="timeline-dates">Sep 2020 - Jul 2022</span>
+      <span class="timeline-dates">Sep 2020 – Jul 2022</span>
     </div>
     <div class="timeline-meta">Brussels, Belgium</div>
     <div class="timeline-desc">Master's thesis: The Impact of Economic Integration on Income Inequality in the EU</div>
   </div>
 </div>
 
-<!-- <br>
-Full cv: [coming soon] -->
+<br>
+Full cv: [coming soon]

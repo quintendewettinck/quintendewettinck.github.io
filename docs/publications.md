@@ -80,13 +80,13 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <a href="https://www-jstor-org.kuleuven.e-bronnen.be/stable/27291360?seq=15" target="_blank" rel="noopener">
+        <a href="https://doi.org/10.11130/jei.2024006" target="_blank" rel="noopener">
             <img src="assets/thesis_hw_map.png" alt="Integration & Inequality">
         </a>
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://www-jstor-org.kuleuven.e-bronnen.be/stable/27291360?seq=15" class="publication-link" target="_blank" rel="noopener">
+            <a href="https://doi.org/10.11130/jei.2024006" class="publication-link" target="_blank" rel="noopener">
                 The Impact of Economic Integration on Income Inequality in the EU
             </a>
         </h3>
@@ -96,7 +96,7 @@
         <div class="publication-tags">
             <span class="tag tag-safety">Economic Integration</span>
             <span class="tag tag-safety">Income Inequality</span>
-            <a href="https://www-jstor-org.kuleuven.e-bronnen.be/stable/27291360?seq=15" class="tag tag-arxiv" target="_blank" rel="noopener">JEI</a>
+            <a href="https://doi.org/10.11130/jei.2024006" class="tag tag-arxiv" target="_blank" rel="noopener">JEI</a>
         </div>
     </div>
 </div>
