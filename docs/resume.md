@@ -46,7 +46,14 @@
       <span class="timeline-dates">Sep 2022 – Jul 2023</span>
     </div>
     <div class="timeline-meta">Leuven, Belgium</div>
-    <div class="timeline-desc">Master's thesis: The Moderating Role of Economic Development on the Relation Between Economic Integration and Income Inequality</div>
+    <div class="timeline-desc">
+      Master's thesis: The Moderating Role of Economic Development on the Relation Between Economic Integration and Income Inequality
+      [<a
+        href="https://lirias.kuleuven.be/retrieve/4bd8576e-2106-4de1-8845-a4f1a751b9a1"
+        target="_blank"
+        rel="noopener noreferrer"
+      >LIRIAS</a>]
+    </div>
   </div>
 
   <div class="timeline-item">
@@ -57,7 +64,14 @@
       <span class="timeline-dates">Sep 2020 – Jul 2022</span>
     </div>
     <div class="timeline-meta">Brussels, Belgium</div>
-    <div class="timeline-desc">Master's thesis: The Impact of Economic Integration on Income Inequality in the EU</div>
+    <div class="timeline-desc">
+      Master's thesis: The Impact of Economic Integration on Income Inequality in the EU
+      [<a
+        href="https://doi.org/10.11130/jei.2024006"
+        target="_blank"
+        rel="noopener noreferrer"
+      >Published</a>]
+    </div>
   </div>
 </div>
 
