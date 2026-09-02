@@ -16,7 +16,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">EconGeo Seminar 2026</span>
+      <span class="timeline-org">EconGeo Seminar</span>
       <span class="timeline-role">Utrecht University</span>
       <span class="timeline-dates">15 Apr 2026</span>
     </div>
@@ -27,7 +27,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">CEDON Seminar 2026</span>
+      <span class="timeline-org">CEDON Seminar</span>
       <span class="timeline-role">KU Leuven</span>
       <span class="timeline-dates">19 Mar 2026</span>
     </div>
@@ -60,7 +60,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Louvain-Leuven Trade Seminar 2025</span>
+      <span class="timeline-org">Louvain-Leuven Trade Seminar</span>
       <span class="timeline-role">KU Leuven & UCLouvain</span>
       <span class="timeline-dates">12 Mar 2025</span>
     </div>

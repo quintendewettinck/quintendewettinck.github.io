@@ -24,7 +24,7 @@
            style="color: inherit; text-decoration: none;">
             Wouter Bam
         </a></div>
-    <div class="timeline-desc">Research Visit to the University of British Columbia (UBC)</div>
+    <div class="timeline-desc">Research visit to the University of British Columbia (UBC, Canada)</div>
   </div>
 
   <!-- <div class="timeline-item">
