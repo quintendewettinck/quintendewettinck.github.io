@@ -439,6 +439,8 @@ body {
 #about-content p {
     text-align: justify;
     /* text-align: left; */
+    hyphens: auto; 
+    text-justify: inter-word;
 }
 
 .prose ul, .prose ol {

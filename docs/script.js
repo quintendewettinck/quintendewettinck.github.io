@@ -626,3 +626,7 @@ prefersReducedMotion.addEventListener('change', () => {
         document.documentElement.style.setProperty('scroll-behavior', 'smooth');
     }
 });
+
+// Automatically set current year in footer
+document.getElementById("copyright-year").textContent =
+    new Date().getFullYear();
