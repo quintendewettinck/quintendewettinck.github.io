@@ -28,14 +28,14 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <a href="https://arxiv.org/abs/2509.17919" target="_blank" rel="noopener">
+        <a href="https://arxiv.org/abs/2509.17919" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-alignment-arxiv">
             <!-- <img src="assets/wp1_opp_plot.png" alt="Economic Complexity Alignment"> -->
             <img src="assets/wp1_pred_entry_cp_heatmap.png" alt="Economic Complexity Alignment">
         </a>
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://arxiv.org/abs/2509.17919" class="publication-link" target="_blank" rel="noopener">
+            <a href="https://arxiv.org/abs/2509.17919" class="publication-link" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-alignment-arxiv">
                 Economic Complexity Alignment and Sustainable Development
             </a>
         </h3>
@@ -46,21 +46,21 @@
             <span class="tag tag-safety">Economic Complexity</span>
             <span class="tag tag-safety">Sustainability Alignment</span>
             <span class="tag tag-safety">Export Diversification</span>
-            <a href="https://arxiv.org/abs/2509.17919" class="tag tag-arxiv" target="_blank" rel="noopener">ARXIV</a>
-            <a href="https://github.com/quintendewettinck/complexity-alignment" class="tag tag-github" target="_blank" rel="noopener">GITHUB</a>
+            <a href="https://arxiv.org/abs/2509.17919" class="tag tag-arxiv" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-alignment-arxiv">ARXIV</a>
+            <a href="https://github.com/quintendewettinck/complexity-alignment" class="tag tag-github" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-alignment-github">GITHUB</a>
         </div>
     </div>
 </div>
 
 <div class="publication-card">
     <div class="publication-image">
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5412234" target="_blank" rel="noopener">
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5412234" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-review-ssrn">
             <img src="assets/product_space.png" alt="Economic Complexity Literature">
         </a>
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5412234" class="publication-link" target="_blank" rel="noopener">
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5412234" class="publication-link" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-review-ssrn">
                 Economic Complexity: Promise and Potential for Sustainable Development Decision Support
             </a>
         </h3>
@@ -71,7 +71,7 @@
             <span class="tag tag-safety">Economic Complexity</span>
             <span class="tag tag-safety">Sustainability Development</span>
             <span class="tag tag-safety">Literature Review</span>
-            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5412234" class="tag tag-arxiv" target="_blank" rel="noopener">SSRN</a>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5412234" class="tag tag-arxiv" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-review-ssrn">SSRN</a>
         </div>
     </div>
 </div>
@@ -80,13 +80,13 @@
 
 <div class="publication-card">
     <div class="publication-image">
-        <a href="https://doi.org/10.11130/jei.2024006" target="_blank" rel="noopener">
+        <a href="https://doi.org/10.11130/jei.2024006" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-integration-inequality-jei">
             <img src="assets/thesis_hw_map.png" alt="Integration & Inequality">
         </a>
     </div>
     <div class="publication-content">
         <h3 class="publication-title">
-            <a href="https://doi.org/10.11130/jei.2024006" class="publication-link" target="_blank" rel="noopener">
+            <a href="https://doi.org/10.11130/jei.2024006" class="publication-link" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-integration-inequality-jei">
                 The Impact of Economic Integration on Income Inequality in the EU
             </a>
         </h3>
@@ -96,7 +96,7 @@
         <div class="publication-tags">
             <span class="tag tag-safety">Economic Integration</span>
             <span class="tag tag-safety">Income Inequality</span>
-            <a href="https://doi.org/10.11130/jei.2024006" class="tag tag-arxiv" target="_blank" rel="noopener">JEI</a>
+            <a href="https://doi.org/10.11130/jei.2024006" class="tag tag-arxiv" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-integration-inequality-jei">JEI</a>
         </div>
     </div>
 </div>

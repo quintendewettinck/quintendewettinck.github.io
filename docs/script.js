@@ -312,6 +312,12 @@ class MarkdownLoader {
                     const markdown = await response.text();
                     const html = this.parseMarkdown(markdown);
                     contentElement.innerHTML = html;
+
+                    // Bind GoatCounter after tracked links are inserted dynamically.
+                    if (window.goatcounter?.bind_events) {
+                        window.goatcounter.bind_events();
+                    }
+
                     console.log(`Successfully loaded ${section} from: ${fullPath}`);
                     return; // Success, exit early
                 } else {
