@@ -30,7 +30,7 @@
     <div class="publication-image">
         <a href="https://arxiv.org/abs/2509.17919" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-alignment-arxiv">
             <!-- <img src="assets/wp1_opp_plot.png" alt="Economic Complexity Alignment"> -->
-            <img src="assets/wp1_pred_entry_cp_heatmap.png" alt="Economic Complexity Alignment">
+            <img src="assets/wp1_pred_entry_cp_heatmap.webp" alt="Economic Complexity Alignment">
         </a>
     </div>
     <div class="publication-content">
@@ -55,7 +55,7 @@
 <div class="publication-card">
     <div class="publication-image">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5412234" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-complexity-review-ssrn">
-            <img src="assets/product_space.png" alt="Economic Complexity Literature">
+            <img src="assets/product_space.webp" alt="Economic Complexity Literature">
         </a>
     </div>
     <div class="publication-content">
@@ -81,7 +81,7 @@
 <div class="publication-card">
     <div class="publication-image">
         <a href="https://doi.org/10.11130/jei.2024006" target="_blank" rel="noopener" data-goatcounter-click="publication-economic-integration-inequality-jei">
-            <img src="assets/thesis_hw_map.png" alt="Integration & Inequality">
+            <img src="assets/thesis_hw_map.webp" alt="Integration & Inequality">
         </a>
     </div>
     <div class="publication-content">
@@ -106,7 +106,7 @@
 <div class="publication-card">
     <div class="publication-image">
         <a href="https://lirias.kuleuven.be/retrieve/4bd8576e-2106-4de1-8845-a4f1a751b9a1" target="_blank" rel="noopener">
-            <img src="assets/thesis_qass_beeswarm.png" alt="Integration & Inequality">
+            <img src="assets/thesis_qass_beeswarm.webp" alt="Integration & Inequality">
         </a>
     </div>
     <div class="publication-content">

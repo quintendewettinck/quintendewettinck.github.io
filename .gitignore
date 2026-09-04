@@ -1,3 +1,6 @@
 astro-theme-cactus/
 
 .DS_Store
+
+# Images in full resolution
+docs/assets/full_resolution
