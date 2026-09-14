@@ -3,28 +3,28 @@
 <div class="timeline">
 
   <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-header">
-      <span class="timeline-org">PhD in Business Economics</span>
-      <span class="timeline-role">KU Leuven</span>
-      <span class="timeline-dates">Oct 2023 – <strong class="text-accent">Present</strong></span>
-    </div>
-    <div class="timeline-meta">Brussels, Belgium</div>
-    <div class="timeline-desc">Economic Complexity research supervised by Prof.
-        <a href="https://sites.google.com/site/karoliendb/home"
-           target="_blank"
-           rel="noopener noreferrer"
-           style="color: inherit; text-decoration: none;">
-            Karolien De Bruyne
-        </a>
-        and Prof.
-        <a href="https://sites.google.com/view/wouter-bam/homepage"
-           target="_blank"
-           rel="noopener noreferrer"
-           style="color: inherit; text-decoration: none;">
-            Wouter Bam
-        </a></div>
-    <div class="timeline-desc">Research visit to the University of British Columbia (UBC, Canada)</div>
+      <span class="timeline-dot"></span>
+      <div class="timeline-header">
+          <span class="timeline-org">PhD in Business Economics</span>
+          <span class="timeline-role">KU Leuven</span>
+          <span class="timeline-dates">Oct 2023 – <strong class="text-accent">Present</strong></span>
+      </div>
+      <div class="timeline-meta">Brussels, Belgium</div>
+      <div class="timeline-desc">
+          Economic Complexity research supervised by Prof.
+          <a href="https://sites.google.com/site/karoliendb/home"
+             class="author-link"
+             target="_blank"
+             rel="noopener noreferrer">Karolien De Bruyne</a>
+          and Prof.
+          <a href="https://sites.google.com/view/wouter-bam/homepage"
+            class="author-link"
+            target="_blank"
+            rel="noopener noreferrer">Wouter Bam</a>
+      </div>
+      <div class="timeline-desc">
+          Research visit to the University of British Columbia (BC, Canada)
+      </div>
   </div>
 
   <!-- <div class="timeline-item">

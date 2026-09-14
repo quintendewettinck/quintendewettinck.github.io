@@ -42,7 +42,7 @@
 
 
 
-I am a PhD candidate in Business Economics at KU Leuven supervised by Prof. Karolien De Bruyne (KU Leuven, Belgium) and Prof. Wouter Bam (UBC, Canada). I hold master's degrees in Statistics & Data Science and in Business Administration, both from KU Leuven. My doctoral research focuses on **economic complexity theory**, **trade diversification** and **sustainable development**.
+I am a PhD candidate in Business Economics at KU Leuven supervised by Prof. <a href="https://sites.google.com/site/karoliendb/home" class="author-link" target="_blank" rel="noopener noreferrer" data-goatcounter-click="author-karolien-de-bruyne">Karolien De Bruyne</a> (KU Leuven, Belgium) and Prof. <a href="https://sites.google.com/view/wouter-bam/homepage" class="author-link" target="_blank" rel="noopener noreferrer" data-goatcounter-click="author-wouter-bam">Wouter Bam</a> (UBC, Canada). I hold master's degrees in Statistics & Data Science and in Business Administration, both from KU Leuven. My doctoral research focuses on **economic complexity theory**, **trade diversification** and **sustainable development**.
 
 In brief, I apply **machine learning** and **network science** techniques to international trade networks to study the **knowledge and capabilities** embedded within economies, and how countries can leverage these capabilities to diversify their export portfolios sustainably. 
 

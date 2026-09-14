@@ -40,7 +40,12 @@
             </a>
         </h3>
         <div class="publication-venue">Preprint</div>
-        <div class="publication-authors">Quinten De Wettinck, Karolien De Bruyne, Wouter Bam, César Hidalgo</div>
+        <div class="publication-authors">
+            Quinten De Wettinck, 
+            <a href="https://sites.google.com/site/karoliendb/home" class="author-link" target="_blank" rel="noopener" data-goatcounter-click="author-karolien-de-bruyne">Karolien De Bruyne</a>, 
+            <a href="https://sites.google.com/view/wouter-bam/homepage" class="author-link" target="_blank" rel="noopener" data-goatcounter-click="author-wouter-bam">Wouter Bam</a>, 
+            <a href="https://cesarhidalgo.com/" class="author-link" target="_blank" rel="noopener" data-goatcounter-click="author-cesar-hidalgo">César Hidalgo</a>
+        </div>
         <div class="publication-year">2025</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Economic Complexity</span>
@@ -65,7 +70,11 @@
             </a>
         </h3>
         <div class="publication-venue">Preprint</div>
-        <div class="publication-authors">Quinten De Wettinck, Karolien De Bruyne, Wouter Bam</div>
+        <div class="publication-authors">
+            Quinten De Wettinck, 
+            <a href="https://sites.google.com/site/karoliendb/home" class="author-link" target="_blank" rel="noopener" data-goatcounter-click="author-karolien-de-bruyne">Karolien De Bruyne</a>, 
+            <a href="https://sites.google.com/view/wouter-bam/homepage" class="author-link" target="_blank" rel="noopener" data-goatcounter-click="author-wouter-bam">Wouter Bam</a>
+        </div>
         <div class="publication-year">2025</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Economic Complexity</span>
@@ -91,7 +100,10 @@
             </a>
         </h3>
         <div class="publication-venue">Journal of Economic Integration</div>
-        <div class="publication-authors">Quinten De Wettinck, Aad van Mourik</div>
+        <div class="publication-authors">
+            Quinten De Wettinck, 
+            <a href="https://cris.maastrichtuniversity.nl/en/persons/aad-van-mourik-2/" class="author-link" target="_blank" rel="noopener" data-goatcounter-click="author-aad-van-mourik">Aad van Mourik</a> 
+        </div>
         <div class="publication-year">2024</div>
         <div class="publication-tags">
             <span class="tag tag-safety">Economic Integration</span>
