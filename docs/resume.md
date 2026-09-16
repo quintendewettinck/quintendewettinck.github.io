@@ -75,5 +75,5 @@
   </div>
 </div>
 
-<br>
-Full cv: [coming soon]
+<!-- <br>
+Full cv: [coming soon] -->
