@@ -1,6 +1,6 @@
 <div class="about-header">
   <img 
-    src="assets/profile_bw.webp"
+    src="assets/profile_1_bw.webp"
     alt="Portrait of Quinten De Wettinck" 
     class="about-avatar" 
     width="160" height="160" 
