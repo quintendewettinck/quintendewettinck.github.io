@@ -1,6 +1,6 @@
-# Portfolio
+# Website
 
-My personal portfolio website.
+My personal website.
 
 **Live site:** [quintendewettinck.github.io](https://quintendewettinck.github.io)
 
